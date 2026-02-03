@@ -201,8 +201,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
   </picture>
 </p>
 
-_(Automated daily with GitHub Actions)_
-
 ---
 
 ## 📫 Connect with Me
