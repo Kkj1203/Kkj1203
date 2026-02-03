@@ -129,7 +129,7 @@ I have a strong foundation in **Python, SQL, Java, and R**, with practical exper
 - 📈 Dashboard development and analytical reporting  
 - 🧪 Machine learning and deep learning workflows, with focus on **model evaluation, limitations, and real-world applicability**  
 
-I’m actively building projects that explore real datasets end-to-end, emphasizing **error analysis, model behavior, and practical constraints**, while continuously engaging in research-oriented learning to strengthen applied problem-solving skills.
+I’m actively building projects that explore real datasets end-to-end, emphasising **error analysis, model behaviour, and practical constraints**, while continuously engaging in research-oriented learning to strengthen applied problem-solving skills.
 
 ## 🔭 Projects
 
@@ -182,8 +182,12 @@ _(Automated daily with GitHub Actions)_
   <a href="https://github.com/Kkj1203" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:keerthikrishnajog120304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
 
 🔍 *Open to collaborations, internships, and opportunities in Data Science, Machine Learning, and Data Analytics.*
