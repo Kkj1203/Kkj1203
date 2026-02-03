@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Keerthikrishna Jog
 
-🎓 **AI & Data Science | Machine Learning / Deep Learning | Analytics**  
+🎓 **AI & Data Science | Machine Learning | Deep Learning | Data Analytics**  
 📍 MIT ADT University, Pune, India  
 📌 B.Tech in Computer Science (AI & Analytics)
 
