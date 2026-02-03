@@ -133,15 +133,89 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ## 🔭 Projects
 
-Here are a few highlights from my GitHub:
+### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)
+**Tech:** Python, TensorFlow/Keras, DenseNet169, Computer Vision  
+🔗 **GitHub:** https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN  
 
-<!-- Replace OR add dynamic links if you want -->
-- **[2223965-bajaj](https://github.com/Kkj1203/2223965-bajaj)** – Python-based project with analytical logic  
-- **[Weather-site](https://github.com/Kkj1203/Weather-site)** – JavaScript app with data fetching & UI  
-- **[AssemblyCodes](https://github.com/Kkj1203/AssemblyCodes)** – Repository of assembly language implementations  
-- **More in repos → 👇**
+- Built a CNN-based deep learning model to classify facial expressions into **7 emotion categories** using the FER-2013 dataset  
+- Applied **transfer learning with DenseNet169** and fine-tuning to improve feature representation and generalisation  
+- Implemented image preprocessing, data augmentation, and **class-weighted training** to address dataset imbalance  
+- Evaluated model performance using **accuracy, confusion matrix, classification report, and ROC–AUC metrics**
 
 ---
+
+### 🌱 YOLOv8-based Crop Disease Detection System
+**Tech:** Python, YOLOv8 (Ultralytics), Object Detection, Deep Learning  
+🔗 **GitHub:** https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor  
+
+- Developed an end-to-end deep learning pipeline for **multi-class crop disease detection** from leaf images  
+- Trained and fine-tuned a **YOLOv8 Nano model** using pretrained weights on a custom dataset in YOLO format  
+- Evaluated performance using **precision, recall, mAP@0.5, and mAP@0.5:0.95**, along with loss visualisation  
+- Implemented an inference workflow with configurable confidence thresholds and bounding-box visualisation
+
+---
+
+### 💸 Expense Tracker (CLI-based)
+**Tech:** Python, CLI, File Handling  
+🔗 **GitHub:** https://github.com/Kkj1203/ExpenseTracker_CLI  
+
+- Developed a command-line Python application to record and manage daily expenses using **JSON-based persistent storage**  
+- Implemented a modular structure for adding, viewing, and summarising expenses by category and date  
+- Applied clean coding and data manipulation practices to ensure maintainability and accuracy
+
+---
+
+### 🧑‍💼 HR Analytics – Employee Attendance Insights
+**Tech:** Power BI, DAX, Data Analytics, Data Visualisation  
+🔗 **GitHub:** https://github.com/Kkj1203/HR-Analytics  
+
+- Designed an end-to-end analytics pipeline including **data cleaning, transformation, and modelling**  
+- Built interactive **Power BI dashboards** using DAX to analyse attendance and absenteeism trends  
+- Delivered actionable insights to support **data-driven workforce planning and HR decision-making**
+
+---
+
+### 🌐 Social Sphere – Text-based Social Media Platform
+**Tech:** Java, JSP, Servlets, JDBC, H2 Database  
+🔗 **GitHub:** https://github.com/Kkj1203/SocialSphere  
+
+- Designed and developed a full-stack **Java EE web application** simulating core social media functionality  
+- Implemented secure **authentication and authorisation**, including session management  
+- Built features for posts, feeds, and comments with structured database interactions  
+- Applied MVC-style separation and clean coding practices for scalability and maintainability
+
+---
+
+### 📊 Vendor Performance Analytics
+**Tech:** Python, SQL, Power BI, EDA, KPI Analysis  
+🔗 **GitHub:** https://github.com/Kkj1203/Vendor-Performance-Analytics  
+
+- Built an end-to-end analytics pipeline integrating vendor and inventory data using **Python and SQL**  
+- Computed business KPIs including **profit margins, inventory turnover, pricing variance, and vendor profitability**  
+- Conducted exploratory data analysis (EDA) to uncover inefficiencies and actionable insights  
+- Designed interactive Power BI dashboards to support **supply chain optimisation and decision-making**
+
+---
+
+### 📺 Streaming Data Analytics – Netflix & Amazon Prime
+**Tech:** Power BI, Excel, EDA, Data Visualisation  
+🔗 **GitHub:** https://github.com/Kkj1203/Streaming-Data-Analytics  
+
+- Built interactive Power BI dashboards to analyse streaming content across Netflix and Amazon Prime  
+- Cleaned, modelled, and transformed datasets to identify **genre-wise trends and content patterns**  
+- Delivered dynamic reports to support **data-driven content and business decisions**
+
+---
+
+### 🧠 Brain–Computer Interface (BCI) for Early ADHD Diagnosis
+**Tech:** EEG, Machine Learning, Data Analysis, BCI  
+🔗 **Associated with:** IS360 Technologies and Services Pvt. Ltd.
+
+- Designed a real-time **EEG-based Brain–Computer Interface** leveraging Slow Cortical Potentials (SCPs)  
+- Applied machine learning techniques to analyse EEG signals and differentiate attention patterns  
+- Proposed a non-invasive, adaptive framework to support **personalised ADHD diagnosis and rehabilitation**  
+- Addressed limitations in existing systems, such as a lack of real-time adaptability and objective neurocognitive metrics
+
 
 ## 📈 GitHub Stats
 
