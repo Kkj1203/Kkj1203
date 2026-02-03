@@ -111,7 +111,7 @@ I’m a curious and motivated engineering student passionate about turning data 
   </a>
 </p>
 
-
+---
 
 ## 💼 About Me
 
@@ -130,6 +130,8 @@ I have a strong foundation in **Python, SQL, Java, and R**, with practical exper
 - 🧪 Machine learning and deep learning workflows, with focus on **model evaluation, limitations, and real-world applicability**  
 
 I’m actively building projects that explore real datasets end-to-end, emphasising **error analysis, model behaviour, and practical constraints**, while continuously engaging in research-oriented learning to strengthen applied problem-solving skills.
+
+---
 
 ## 💻 Projects
 
@@ -173,7 +175,7 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 - Applied machine learning to analyse attention patterns in ADHD subjects
 - Proposed a non-invasive, adaptive framework for diagnosis support
 
-
+---
 
 ## 📈 GitHub Stats
 
