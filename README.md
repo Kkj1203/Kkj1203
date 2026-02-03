@@ -50,8 +50,8 @@ I’m a curious and motivated engineering student passionate about turning data 
   <a href="https://numpy.org/doc/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </a>
-  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <a href="https://opencv.org/releases/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
   <a href="https://www.tensorflow.org/learn" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -61,6 +61,12 @@ I’m a curious and motivated engineering student passionate about turning data 
   </a>
   <a href="https://docs.ultralytics.com/" target="_blank">
     <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <a href="https://matplotlib.org/stable/contents.html" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  </a>
+  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </a>
 </p>
 
@@ -74,12 +80,6 @@ I’m a curious and motivated engineering student passionate about turning data 
   </a>
   <a href="https://www.tableau.com/learn/training" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://matplotlib.org/stable/contents.html" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  </a>
-  <a href="https://opencv.org/releases/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
   <a href="https://jupyter.org/documentation" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
