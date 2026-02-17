@@ -133,7 +133,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 ## 💻 Featured Projects
 
 ### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning) 🔗 [GitHub](https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)
-(https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)
 
 - Built a deep learning model to classify 7 facial emotions using the FER-2013 dataset  
 - Applied transfer learning with DenseNet169 and fine-tuning for improved generalisation  
@@ -142,7 +141,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 ---
 
 ### 🌱 YOLOv8-based Crop Disease Detection System 🔗 [GitHub](https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)
-(https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)
 
 - Developed an end-to-end object detection pipeline for multi-class crop disease identification  
 - Fine-tuned YOLOv8 Nano using pretrained weights on a custom dataset  
@@ -151,7 +149,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 ---
 
 ### 🌐 Social Sphere – Text-based Social Media Platform 🔗 [GitHub](https://github.com/Kkj1203/SocialSphere)
-(https://github.com/Kkj1203/SocialSphere)
 
 - Full-stack Java EE web application simulating core social media features  
 - Implemented secure authentication, post creation, feeds, and comments  
@@ -160,16 +157,14 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 ---
 
 ### 📊 Vendor Performance Analytics 🔗 [GitHub](https://github.com/Kkj1203/Vendor-Performance-Analytics)
-(https://github.com/Kkj1203/Vendor-Performance-Analytics)
 
 - Integrated vendor and inventory data using Python and SQL  
 - Performed KPI analysis and EDA to uncover business inefficiencies  
 - Built Power BI dashboards for vendor evaluation and decision support  
 
 ---
-
+### More Projects
 <p align="center">
-  <b>More projects →</b> 
   <a href="https://github.com/Kkj1203?tab=repositories">View all repositories</a>
 </p>
 
