@@ -128,15 +128,15 @@ I have a strong foundation in **Python, SQL, Java, and R**, with practical exper
 
 I’m actively building projects that explore real datasets end-to-end, emphasising **error analysis, model behaviour, and practical constraints**, while continuously engaging in research-oriented learning to strengthen applied problem-solving skills.
 
+
 ---
 
 ## 💻 Featured Projects
 
-### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)
-
-<p align="right">
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h3>😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)</h3>
   <a href="https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN"><b>GitHub ↗</b></a>
-</p>
+</div>
 
 **Tech:** Python, TensorFlow/Keras, DenseNet169, Computer Vision  
 
@@ -146,11 +146,10 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 🌱 YOLOv8-based Crop Disease Detection System
-
-<p align="right">
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h3>🌱 YOLOv8-based Crop Disease Detection System</h3>
   <a href="https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor"><b>GitHub ↗</b></a>
-</p>
+</div>
 
 **Tech:** Python, YOLOv8 (Ultralytics), Object Detection, Deep Learning  
 
@@ -160,11 +159,10 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 🌐 Social Sphere – Text-based Social Media Platform
-
-<p align="right">
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h3>🌐 Social Sphere – Text-based Social Media Platform</h3>
   <a href="https://github.com/Kkj1203/SocialSphere"><b>GitHub ↗</b></a>
-</p>
+</div>
 
 **Tech:** Java, JSP, Servlets, JDBC, H2 Database  
 
@@ -174,11 +172,10 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 📊 Vendor Performance Analytics
-
-<p align="right">
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h3>📊 Vendor Performance Analytics</h3>
   <a href="https://github.com/Kkj1203/Vendor-Performance-Analytics"><b>GitHub ↗</b></a>
-</p>
+</div>
 
 **Tech:** Python, SQL, Power BI, KPI Analysis  
 
