@@ -176,14 +176,10 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Kkj1203&show_icons=true&theme=radical&hide_border=true"
-  />
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkj1203&layout=compact&theme=radical&hide_border=true"
-  />
-</div>
+<p align="center">
+  <img src="https://github.com/Kkj1203/Kkj1203/blob/main/github-metrics.svg" />
+</p>
+
 
 ---
 
