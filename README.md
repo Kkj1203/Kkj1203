@@ -130,47 +130,56 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-## 💻 Projects
+---
 
-### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning) 🔗 [GitHub](https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)
-- CNN-based emotion classification system using the FER-2013 dataset (7 classes)
-- Applied transfer learning with DenseNet169 and fine-tuning for improved generalisation
-- Evaluated performance using accuracy, confusion matrix, and ROC–AUC metrics
+## 💻 Featured Projects
 
-### 🌱 YOLOv8-based Crop Disease Detection System 🔗 [GitHub](https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)
-- End-to-end object detection pipeline for multi-class crop disease identification
-- Trained and fine-tuned YOLOv8 Nano with pretrained weights on a custom dataset
-- Assessed performance using precision, recall, and mAP metrics with visualised predictions
+### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)  
+🔗 [GitHub](https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)  
+**Tech:** Python, TensorFlow/Keras, DenseNet169, Computer Vision  
 
-### 💸 Expense Tracker (CLI-based) 🔗 [GitHub](https://github.com/Kkj1203/ExpenseTracker_CLI)
-- Python-based CLI application for tracking daily expenses with JSON persistence
-- Modular design for adding, viewing, and summarising expenses by category
-- Focused on clean code, data handling, and maintainability
+- Built a deep learning model to classify 7 facial emotions using the FER-2013 dataset  
+- Applied transfer learning and fine-tuning for improved generalisation  
+- Evaluated using accuracy, confusion matrix, and ROC–AUC metrics  
 
-### 🧑‍💼 HR Analytics – Employee Attendance Insights 🔗 [GitHub](https://github.com/Kkj1203/HR-Analytics)
-- Built an analytics pipeline for employee attendance data using Power BI
-- Created interactive dashboards with DAX to analyse absenteeism trends
-- Delivered insights to support data-driven HR planning and decision-making
+---
 
-### 🌐 Social Sphere – Text-based Social Media Platform 🔗 [GitHub](https://github.com/Kkj1203/SocialSphere)
-- Full-stack Java EE web application simulating core social media features
-- Implemented secure authentication, post creation, feeds, and comments
-- Used JSP, Servlets, JDBC, and MVC principles for scalable design
+### 🌱 YOLOv8-based Crop Disease Detection System  
+🔗 [GitHub](https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)  
+**Tech:** Python, YOLOv8 (Ultralytics), Object Detection, Deep Learning  
 
-### 📊 Vendor Performance Analytics 🔗 [GitHub](https://github.com/Kkj1203/Vendor-Performance-Analytics)
-- Integrated vendor and inventory data using Python and SQL
-- Performed KPI analysis and EDA to uncover business inefficiencies
-- Built Power BI dashboards for vendor evaluation and decision support
-  
-### 📺 Streaming Data Analytics – Netflix & Amazon Prime 🔗 [GitHub](https://github.com/Kkj1203/Streaming-Data-Analytics)
-- Analysed streaming content data using Power BI and Excel
-- Identified genre-wise trends and content performance patterns
-- Delivered interactive dashboards for data-driven content insights
+- Developed an end-to-end object detection pipeline for multi-class crop disease identification  
+- Fine-tuned YOLOv8 Nano using pretrained weights on a custom dataset  
+- Assessed performance using precision, recall, and mAP metrics  
 
-### 🧠 Brain–Computer Interface (BCI) for Early ADHD Diagnosis
-- Designed an EEG-based BCI system using Slow Cortical Potentials (SCPs)
-- Applied machine learning to analyse attention patterns in ADHD subjects
-- Proposed a non-invasive, adaptive framework for diagnosis support
+---
+
+### 🌐 Social Sphere – Text-based Social Media Platform  
+🔗 [GitHub](https://github.com/Kkj1203/SocialSphere)  
+**Tech:** Java, JSP, Servlets, JDBC, H2 Database  
+
+- Designed and implemented a full-stack Java EE web application  
+- Built authentication, post creation, feeds, and comment systems  
+- Applied MVC principles for scalable and maintainable architecture  
+
+---
+
+### 📊 Vendor Performance Analytics  
+🔗 [GitHub](https://github.com/Kkj1203/Vendor-Performance-Analytics)  
+**Tech:** Python, SQL, Power BI, KPI Analysis  
+
+- Integrated vendor and inventory datasets for performance evaluation  
+- Computed business KPIs including profit margins and inventory turnover  
+- Built interactive dashboards for data-driven decision support  
+
+---
+
+<p align="center">
+  <b>More projects →</b> 
+  <a href="https://github.com/Kkj1203?tab=repositories">View all repositories</a>
+</p>
+
+---
 
 ---
 
