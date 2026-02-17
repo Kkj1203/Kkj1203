@@ -132,8 +132,12 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ## 💻 Featured Projects
 
-### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)  
-🔗 [GitHub](https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)  
+### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)
+
+<p align="right">
+  <a href="https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN"><b>GitHub ↗</b></a>
+</p>
+
 **Tech:** Python, TensorFlow/Keras, DenseNet169, Computer Vision  
 
 - Built a deep learning model to classify 7 facial emotions using the FER-2013 dataset  
@@ -142,8 +146,12 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 🌱 YOLOv8-based Crop Disease Detection System  
-🔗 [GitHub](https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)  
+### 🌱 YOLOv8-based Crop Disease Detection System
+
+<p align="right">
+  <a href="https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor"><b>GitHub ↗</b></a>
+</p>
+
 **Tech:** Python, YOLOv8 (Ultralytics), Object Detection, Deep Learning  
 
 - Developed an end-to-end object detection pipeline for multi-class crop disease identification  
@@ -152,8 +160,12 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 🌐 Social Sphere – Text-based Social Media Platform  
-🔗 [GitHub](https://github.com/Kkj1203/SocialSphere)  
+### 🌐 Social Sphere – Text-based Social Media Platform
+
+<p align="right">
+  <a href="https://github.com/Kkj1203/SocialSphere"><b>GitHub ↗</b></a>
+</p>
+
 **Tech:** Java, JSP, Servlets, JDBC, H2 Database  
 
 - Designed and implemented a full-stack Java EE web application  
@@ -162,8 +174,12 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-### 📊 Vendor Performance Analytics  
-🔗 [GitHub](https://github.com/Kkj1203/Vendor-Performance-Analytics)  
+### 📊 Vendor Performance Analytics
+
+<p align="right">
+  <a href="https://github.com/Kkj1203/Vendor-Performance-Analytics"><b>GitHub ↗</b></a>
+</p>
+
 **Tech:** Python, SQL, Power BI, KPI Analysis  
 
 - Integrated vendor and inventory datasets for performance evaluation  
@@ -176,8 +192,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
   <b>More projects →</b> 
   <a href="https://github.com/Kkj1203?tab=repositories">View all repositories</a>
 </p>
-
----
 
 ---
 
