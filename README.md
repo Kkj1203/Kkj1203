@@ -130,8 +130,6 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
----
-
 ## 💻 Featured Projects
 
 ### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)  
