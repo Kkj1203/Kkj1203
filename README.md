@@ -128,30 +128,21 @@ I have a strong foundation in **Python, SQL, Java, and R**, with practical exper
 
 I’m actively building projects that explore real datasets end-to-end, emphasising **error analysis, model behaviour, and practical constraints**, while continuously engaging in research-oriented learning to strengthen applied problem-solving skills.
 
-
 ---
 
 ## 💻 Featured Projects
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <h3>😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning)</h3>
-  <a href="https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN"><b>GitHub ↗</b></a>
-</div>
-
-**Tech:** Python, TensorFlow/Keras, DenseNet169, Computer Vision  
+### 😄 Facial Emotion Recognition using CNN (DenseNet Transfer Learning) 🔗 [GitHub](https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)
+(https://github.com/Kkj1203/Facial-Emotion-Recognition-CNN)
 
 - Built a deep learning model to classify 7 facial emotions using the FER-2013 dataset  
-- Applied transfer learning and fine-tuning for improved generalisation  
-- Evaluated using accuracy, confusion matrix, and ROC–AUC metrics  
+- Applied transfer learning with DenseNet169 and fine-tuning for improved generalisation  
+- Evaluated performance using accuracy, confusion matrix, and ROC–AUC metrics  
 
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <h3>🌱 YOLOv8-based Crop Disease Detection System</h3>
-  <a href="https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor"><b>GitHub ↗</b></a>
-</div>
-
-**Tech:** Python, YOLOv8 (Ultralytics), Object Detection, Deep Learning  
+### 🌱 YOLOv8-based Crop Disease Detection System 🔗 [GitHub](https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)
+(https://github.com/Kkj1203/YOLOv8-CropDiseasePredictor)
 
 - Developed an end-to-end object detection pipeline for multi-class crop disease identification  
 - Fine-tuned YOLOv8 Nano using pretrained weights on a custom dataset  
@@ -159,29 +150,21 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <h3>🌐 Social Sphere – Text-based Social Media Platform</h3>
-  <a href="https://github.com/Kkj1203/SocialSphere"><b>GitHub ↗</b></a>
-</div>
+### 🌐 Social Sphere – Text-based Social Media Platform 🔗 [GitHub](https://github.com/Kkj1203/SocialSphere)
+(https://github.com/Kkj1203/SocialSphere)
 
-**Tech:** Java, JSP, Servlets, JDBC, H2 Database  
-
-- Designed and implemented a full-stack Java EE web application  
-- Built authentication, post creation, feeds, and comment systems  
-- Applied MVC principles for scalable and maintainable architecture  
+- Full-stack Java EE web application simulating core social media features  
+- Implemented secure authentication, post creation, feeds, and comments  
+- Used JSP, Servlets, JDBC, and MVC principles for scalable design  
 
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <h3>📊 Vendor Performance Analytics</h3>
-  <a href="https://github.com/Kkj1203/Vendor-Performance-Analytics"><b>GitHub ↗</b></a>
-</div>
+### 📊 Vendor Performance Analytics 🔗 [GitHub](https://github.com/Kkj1203/Vendor-Performance-Analytics)
+(https://github.com/Kkj1203/Vendor-Performance-Analytics)
 
-**Tech:** Python, SQL, Power BI, KPI Analysis  
-
-- Integrated vendor and inventory datasets for performance evaluation  
-- Computed business KPIs including profit margins and inventory turnover  
-- Built interactive dashboards for data-driven decision support  
+- Integrated vendor and inventory data using Python and SQL  
+- Performed KPI analysis and EDA to uncover business inefficiencies  
+- Built Power BI dashboards for vendor evaluation and decision support  
 
 ---
 
