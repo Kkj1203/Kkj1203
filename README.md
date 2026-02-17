@@ -163,11 +163,11 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 - Built Power BI dashboards for vendor evaluation and decision support  
 
 ---
-### More Projects
-<p align="center">
-  <a href="https://github.com/Kkj1203?tab=repositories">View all repositories</a>
-</p>
-
+<h3 align="center">
+  <a href="https://github.com/Kkj1203?tab=repositories">
+    🚀 More Projects →
+  </a>
+</h3>
 ---
 
 ## 📈 GitHub Stats
