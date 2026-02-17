@@ -164,9 +164,8 @@ I’m actively building projects that explore real datasets end-to-end, emphasis
 
 ---
 <h3 align="center">
-  <a href="https://github.com/Kkj1203?tab=repositories">
-    🚀 More Projects →
-  </a>
+  <b> 🚀 More projects →</b> 
+  <a href="https://github.com/Kkj1203?tab=repositories">View all repositories</a>
 </h3>
 ---
 
