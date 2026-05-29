@@ -13,25 +13,45 @@ I build and ship production LLM systems — from hybrid RAG pipelines and fine-t
 ### 🧠 LLM / GenAI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=searchengineland&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/DPO%20%2F%20SFT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://huggingface.co/docs/transformers/model_doc/rag" target="_blank">
+    <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=searchengineland&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/docs/peft/" target="_blank">
+    <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/docs/trl/" target="_blank">
+    <img src="https://img.shields.io/badge/DPO%20%2F%20SFT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
   <a href="https://huggingface.co/docs" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <a href="https://openai.com/api/" target="_blank">
+  <a href="https://langfuse.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=grafana&logoColor=white" />
+  </a>
+  <a href="https://ollama.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://platform.openai.com/docs" target="_blank">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deepgram-00D4AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
+  <a href="https://ai.google.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://console.groq.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://docs.anthropic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://developers.deepgram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Deepgram-00D4AA?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://elevenlabs.io/docs" target="_blank">
+    <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -42,13 +62,13 @@ I build and ship production LLM systems — from hybrid RAG pipelines and fine-t
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
+  <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
-  <a href="https://cran.r-project.org/manuals.html" target="_blank">
+  <a href="https://cran.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dax/" target="_blank">
@@ -73,22 +93,22 @@ I build and ship production LLM systems — from hybrid RAG pipelines and fine-t
   <a href="https://numpy.org/doc/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </a>
-  <a href="https://opencv.org/releases/" target="_blank">
+  <a href="https://docs.opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
   <a href="https://www.tensorflow.org/learn" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
+  <a href="https://pytorch.org/docs/stable/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
   <a href="https://docs.ultralytics.com/" target="_blank">
     <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
-  <a href="https://matplotlib.org/stable/contents.html" target="_blank">
+  <a href="https://matplotlib.org/stable/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   </a>
-  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
+  <a href="https://scikit-learn.org/stable/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </a>
 </p>
@@ -98,19 +118,25 @@ I build and ship production LLM systems — from hybrid RAG pipelines and fine-t
 ### 🛠️ Tools & DevOps
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://docs.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  </a>
+  <a href="https://docs.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </a>
-  <a href="https://www.tableau.com/learn/training" target="_blank">
+  <a href="https://help.tableau.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
-  <a href="https://jupyter.org/documentation" target="_blank">
+  <a href="https://docs.jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
@@ -126,15 +152,19 @@ I build and ship production LLM systems — from hybrid RAG pipelines and fine-t
 ### ☁️ Cloud
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AMD%20MI300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <a href="https://aws.amazon.com/documentation/" target="_blank">
+  <a href="https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html" target="_blank">
+    <img src="https://img.shields.io/badge/AMD%20MI300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <a href="https://cloud.google.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
   <a href="https://docs.oracle.com/en/cloud/" target="_blank">
     <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/microsoft-365/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
 </p>
